@@ -1,0 +1,24 @@
+What is Git?
+
+Git is a version control system (VCS) that helps developers track changes in their code, collaborate with others, and maintain different versions of a project. 
+Git is a command-line tool that runs locally on your computer.
+
+Example of Git:
+Imagine you’re writing a book.
+
+Without Git: If you make changes, you might save different copies like book_v1.docx, book_v2.docx, final_book.docx, etc. This gets messy.
+With Git: Git automatically tracks changes, so you don’t need multiple copies. You can always go back to previous versions easily.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What is GitHub?
+
+GitHub is a web-based platform that uses Git. It provides a user-friendly interface for hosting, sharing, and collaborating on Git repositories.
+
+Example of GitHub: (One example of Remote repository Service)   
+Imagine you and a friend are writing the book together.
+You both work on different chapters and save them using Git.
+Instead of emailing files, you upload them to GitHub.
+GitHub helps you merge changes smoothly.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
